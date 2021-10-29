@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+// import './index.css';
+import Search from './Component/Search';
+import LoginReact from './pages/LoginReact';
 import reportWebVitals from './reportWebVitals';
-
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <LoginReact />
+    {/* <Search /> */}
+
   </React.StrictMode>,
   document.getElementById('root')
 );

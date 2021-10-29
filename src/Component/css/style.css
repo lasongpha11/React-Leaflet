@@ -1,0 +1,15 @@
+.leaflet-container {
+    width:100%;
+    height:800px;
+    float:left;
+
+}
+.leaflet-top, .leaflet-bottom  {
+    background-color: white;
+}
+
+
+/* .left-group {
+    width:550px;
+    height: 800px;
+} */
